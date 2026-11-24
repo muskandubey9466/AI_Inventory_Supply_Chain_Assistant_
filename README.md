@@ -1,1 +1,15 @@
 # AI_Inventory_Supply_Chain_Assistant_
+AI_Inventory_Supply_Chain_Assistant/
+│
+├── app.py
+├── requirements.txt
+├── .env
+│
+├── data/
+│   └── inventory.csv
+│
+└── modules/
+    ├── __init__.py
+    ├── inventory.py
+    ├── analytics.py
+    └── ai_assistant.py
